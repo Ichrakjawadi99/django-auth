@@ -12,7 +12,7 @@ backports.tarfile==1.1.1
 boto3==1.34.108
 botocore==1.34.108
 cachetools==5.5.0
-certifi==2023.7.22
+certifi==2024.7.4
 cffi==1.17.1
 channels==4.1.0
 channels-redis==4.2.0
@@ -34,7 +34,7 @@ django-oauth-toolkit==3.0.1
 django-rest-auth==0.9.5
 django-rest-framework-social-oauth2==1.2.0
 django-storages==1.14.4
-djangorestframework==3.15.1
+djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
 djoser==2.3.1
 docker==7.0.0
@@ -51,7 +51,7 @@ google-auth==2.36.0
 grpcio==1.63.0
 gunicorn==23.0.0
 huggingface-hub==0.23.0
-idna==2.10
+idna==3.7
 imageio==2.34.1
 importlib_metadata==7.1.0
 importlib_resources==6.4.0
@@ -77,7 +77,7 @@ networkx==3.2.1
 numpy==1.26.4
 oauthlib==3.2.2
 opencv-python==4.8.1.78
-opencv-python-headless==4.8.0.74
+opencv-python-headless==4.8.1.78
 packaging==24.0
 pandas==2.2.2
 pillow==10.3.0
@@ -135,12 +135,12 @@ twilio==9.3.7
 typing_extensions==4.11.0
 tzdata==2024.1
 ultralytics==8.2.18
-urllib3==1.26.18
+urllib3==1.26.19
 voluptuous==0.14.2
 watchdog==4.0.1
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 yarl==1.18.0
 yolo==0.3.1
 yolov5==7.0.13
 yolov8==0.0.2
-zipp==3.18.2
+zipp==3.19.1
