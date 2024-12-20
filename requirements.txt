@@ -98,7 +98,6 @@ python-dotenv==1.0.1
 python-magic==0.4.27
 python3-openid==3.2.0
 pytz==2024.1
-pywin32==306
 pywin32-ctypes==0.2.2
 PyYAML==6.0.1
 redis==5.0.5
